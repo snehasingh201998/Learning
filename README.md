@@ -1,3 +1,3 @@
 # Learning
 <br>
-Always do revision
+Always do revision otherwise u will forget the concepts
